@@ -6,12 +6,12 @@
 <title>Welcome to XYZ BANK</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: red;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to XYZ BANK</h1>
+<h1>Welcome to lanki BANK</h1>
 <p>This is a sample Welcome to XYZ BANK application for 2023 July Morrning Batch.</p>
 </body>
 </html>
